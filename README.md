@@ -25,10 +25,10 @@ Cyber Fiction is an innovative web application designed to provide a learning ex
 - Modern and culturally rich UI providing a distinctive experience.
 
 
-## Live Demo
+## Live Link
 
 **NOTE** :- This site may take some time to load as it utilizes canvas, which is dependent on your network connection. We appreciate your patience and understanding. Please wait until the site has fully loaded               for an optimal and enjoyable experience.For an even better experience, consider loading the website multiple times.<br>
-            Check out the live demo :-> https://kamalcyberfic.netlify.app/
+            Check out the live Link :-> https://kamalcyberfic.netlify.app/
 
 
 ## How to Run
